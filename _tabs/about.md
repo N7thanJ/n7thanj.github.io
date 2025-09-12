@@ -10,5 +10,5 @@ Hello World
 > 
 <a alt="CPTS" href="https://www.images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"><img alt="CPTS" src="/assets/img/CPTS.png" height="100" width="75"/></a>
 <a alt="CPTS2" href="https://www.images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"><img alt="CPTS2" src="/assets/img/CPTS2.webp" height="100" width="75"/></a>
-<a alt="Genesis" href="https://github.com/N7thanJ/n7thanj.github.io/blob/main/assets/img/Genesis.png"><img alt="Genesis" src="/assets/img/Genesis.png" height="100" width="75"/></a>
+<a alt="Genesis" href="https://www.hackthebox.com/storage/blog/G2tnCn3stoszUYnAUiuILexgralGoSnR.png"><img alt="Genesis" src="/assets/img/Genesis.png" height="100" width="75"/></a>
 
