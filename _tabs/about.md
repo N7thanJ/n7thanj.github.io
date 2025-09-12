@@ -4,6 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+Education:
+- Graduate Certificate in Cybersecurity (Studying)
+- Diploma in Information Technology (Cyber Security)
+
 Certifications:
 
 <a alt="CPTS2" href="https://www.images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"><img alt="CPTS2" src="/assets/img/CPTS2.webp" height="200" width="150"/></a>
