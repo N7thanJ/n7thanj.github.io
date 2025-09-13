@@ -26,4 +26,8 @@ Certifications in Progress:
 
 CTF Platforms:
 
-<a alt="HackTheBox" href="https://avatars.githubusercontent.com/u/31746234?s=280&v=4"><img alt="HackTheBox" src="/assets/img/htb.png" height="200" width="150"/></a>
+<a alt="HackTheBox" href="https://avatars.githubusercontent.com/u/31746234?s=280&v=4"><img alt="HackTheBox" src="/assets/img/htb.png" height="50" width="50"/></a>
+
+- HTB Season 8 Rank: Platinum
+- HTB Rank: Hacker
+- Top 30 in Australia
