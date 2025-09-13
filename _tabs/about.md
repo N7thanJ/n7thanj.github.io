@@ -17,3 +17,7 @@ Certifications:
 <a alt="Genesis" href="https://www.hackthebox.com/storage/blog/G2tnCn3stoszUYnAUiuILexgralGoSnR.png"><img alt="Genesis" src="/assets/img/Genesis.png" height="200" width="150"/></a>
 <a alt="Dante" href="https://enterprise.hackthebox.com/storage/ic-prolabs/r6emlVofrHAmI4xNtjuOv1DghB9a7xPcwYkkxEXD.svg"><img alt="Dante" src="/assets/img/Dante2.png" height="200" width="150"/></a>
 
+Certifications in Progress:
+
+<a alt="CAPE" href="https://www.images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"><img alt="CAPE" src="/assets/img/CAPE4.png" height="200" width="150"/></a>
+<a alt="CWEE" href="[https://www.images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"><img alt="CWEE" src="/assets/img/CWEE.webp" height="200" width="150"/></a>
