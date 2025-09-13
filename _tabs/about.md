@@ -23,3 +23,7 @@ Certifications in Progress:
 
 <a alt="CAPE" href="https://www.images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"><img alt="CAPE" src="/assets/img/CAPE4.png" height="200" width="150"/></a>
 <a alt="CWEE" href="https://academy.hackthebox.com/storage/exam_badges/4fD6SYsBGohDZAs5AsAacJlmn1OTtykViXwoi2sx.png"><img alt="CWEE" src="/assets/img/CWEE.webp" height="200" width="150"/></a>
+
+CTF Platforms:
+
+<a alt="HackTheBox" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s"><img alt="HackTheBox" src="/assets/img/hackthebox.png" height="200" width="150"/></a>
