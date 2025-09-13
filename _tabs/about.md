@@ -26,4 +26,4 @@ Certifications in Progress:
 
 CTF Platforms:
 
-<a alt="HackTheBox" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s"><img alt="HackTheBox" src="/assets/img/hackthebox.png" height="200" width="150"/></a>
+<a alt="HackTheBox" href="https://avatars.githubusercontent.com/u/31746234?s=280&v=4"><img alt="HackTheBox" src="/assets/img/htb.png" height="200" width="150"/></a>
