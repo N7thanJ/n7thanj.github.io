@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+I am CPTS, CDSA, CBBH/CWES certified, graduated with a Diploma in IT (Cyber Security). I've also completed the following HackTheBox ProLabs: [Genesis](https://www.hackthebox.com/blog/genesis-breakpoint-release) and [Dante](https://www.hackthebox.com/business/professional-labs)
+
 Education:
 - Graduate Certificate in Cybersecurity (Studying)
 - Diploma in Information Technology (Cyber Security)
