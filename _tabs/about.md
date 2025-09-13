@@ -32,5 +32,3 @@ CTF Platforms:
 - HTB Season 8 Rank: Platinum
 - HTB Rank: Hacker
 - Top 30 in Australia
-
-- <p>This is a <span style="color: #E5E4E2;">platinum</span> word.</p>
