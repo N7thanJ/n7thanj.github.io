@@ -82,6 +82,8 @@ ldapsearch -x -H ldap://10.10.151.149 -D "abbie.smith@reflection.vl" -w 'CMe1x+n
 
 ### netexec
 
+NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of large networks.
+
 **Kerberoasting / Targeted Kerberoasting**
 
 ```bash
