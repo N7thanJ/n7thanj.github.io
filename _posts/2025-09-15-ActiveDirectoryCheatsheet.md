@@ -1,7 +1,7 @@
 ---
 title: "Active Directory Cheatsheet"
 date: 2025-09-15 00:00:00 +1000
-categories: [active directory, cheatsheet, red team]
+categories: [red team, active directory, cheatsheet]
 tags: [active directory, cheatsheet, red team]
 ---
 
