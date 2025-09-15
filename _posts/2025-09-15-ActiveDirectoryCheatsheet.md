@@ -11,7 +11,7 @@ bloodyAD is an Active Directory privilege escalation swiss army knife. bloodyAD 
 
 autobloodyAD: https://github.com/CravateRouge/autobloody
 
-**Reset/Change a User’s Password (ForceChangePassword, AllExtendedRights**
+**Reset/Change a User’s Password (ForceChangePassword, AllExtendedRights)**
 
 ```bash
 #Change the password for admin with john's permissions - john = ControlledUser - admin = User whose password we want to change
